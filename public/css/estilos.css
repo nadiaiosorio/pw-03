@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Dosis|Oswald');
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 40pt;
+}
+
+h2,h3,h4,h5 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 30pt; 
+}
+
+h6{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    font-size: 30pt; 
+    margin-left: 120px;
+}
+
+body {
+    font-family: 'dosis', sans-serif;
+    background-image: url("/Users/nadiaosorio/Documents/inicio-master 2/public/images/dots.png");
+
+}
+
+thead{
+    background-color: rgb(75, 25, 155);
+    color: white;
+}
+.container{
+    margin: 0px,0px, 100px,100px;
+}
+
+.jumbotron{
+    background-image: url("/Users/nadiaosorio/Documents/inicio-master 2/public/images/foto6.jpg");
+
+}
+
+
+.columnas {
+    column-count: 2;
+    margin-top: 30px;
+    margin-left: 100px;
+   margin-right: 100px;
+}
+
+img.imagenes {
+    width: 60%;
+    height: 60%;
+    display:block;
+    margin:auto;
+    
+}
+
+p{
+    margin-left:30px; 
+}
+
